@@ -151,7 +151,7 @@ Regions:
                 nsb: false
                 wgc: false
 
-    Lesta:
+    PARASHA:
         wgnwn: "https://lesta.ru"
         wotBlitzPremShop: "https://lesta.ru/shop/wotb/gold"
         # new ids per platform
